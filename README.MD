@@ -1,3 +1,2 @@
-# MISC STUFF
-Most of this stuff is aimed to provide functionality i personally need. It is supposed to make my linux/windows useful for me and useless for anyone else. However, if you happen to find anything of use, feel free to use it.
-
+# MISC SCRIPTS
+Some miscellaneus scripts written by myself mostly in python, batch, or bash. Some of them are for automating tasks, for automating pentesting and networking tasks, or to please my whimsies and dispatch them via config files. If you find something useful, feel free to use it as you please.   
