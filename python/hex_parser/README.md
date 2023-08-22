@@ -1,0 +1,2 @@
+# HEX Dump Parser
+The concept is rather simple. It receibes a text file named ```hex_dump.txt``` and will process the text to remove the tabs (```\t```) and enter (```\n```). This is because i find anoying the hex dumps commonly found in assessements. It takes a long time to manually parse them in order to decode them or use them inside a command. The parsed HEX dump will be written to ```output.txt```.
