@@ -28,7 +28,7 @@ define('TYPE_JSON', 'application/json');
 define('CONTROLLER', 'user');
 define('ACTION', 'login');
 
-$url = 'http://10.10.10.9/';
+$url = 'http://10.10.10.9';
 $endpoint_path = '/rest';
 $endpoint = 'rest_endpoint';
 
